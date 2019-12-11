@@ -1,0 +1,7 @@
+// REST CLIENT example requests
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.amazon.es/Spike-Chunsoft-Steins-Gate-Elite/dp/B07JW1FBB9/ref=sr_1_1?keywords=steins+gate&qid=1576022430&sr=8-1"
+}

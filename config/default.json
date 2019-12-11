@@ -1,0 +1,4 @@
+{
+  "mongoUri": "mongodb://admin:admin-diu-miw@miw-diu-shard-00-00-tb9ul.mongodb.net:27017,miw-diu-shard-00-01-tb9ul.mongodb.net:27017,miw-diu-shard-00-02-tb9ul.mongodb.net:27017/test?ssl=true&replicaSet=MIW-DIU-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}

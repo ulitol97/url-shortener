@@ -1,5 +1,6 @@
 # url-shortener
-Possible backend API for a URL shortener service
+Possible backend API for a URL shortener service.
+To run the application simply go tot he project folder, install the dependencies and run **npm start**.
 
 To shorten a URL send a post request to: **/api/url/shorten** with the following content:
 ```
